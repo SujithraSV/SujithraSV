@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SujithraSV
+- 👀 I’m interested in solving problems and exploring new things
+- 📫 reach me sujithravadivelan@gmail.com
+- I'm a B.E. CSE first year student 
