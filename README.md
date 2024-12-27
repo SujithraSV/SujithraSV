@@ -2,3 +2,5 @@
 - 👀 I’m interested in solving problems and exploring new things
 - 📫 reach me sujithravadivelan@gmail.com
 - I'm a B.E. CSE first year student 
+ - School:St.Dominic's Anglo Indian Higher Secondary School
+- Institute Name: Panimalar Engineering College
