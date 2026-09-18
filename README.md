@@ -13,7 +13,7 @@
   **📌 Featured Projects**
 * OpenProcure — Open Tender Product Suggestion System; product-to-tender matching pipeline built during the Meril internship
 * StockSense — CTS Techathon 4.0 hackathon project
-* BharatVoice — built and documented simultaneously from scratch
+* Road Scene Understanding — built from scratch
 * Smart Energy Meter — prototype built with Tkinter, showcased at Project Expo
 
   **🏅 Hackathons & Competitions**
@@ -31,7 +31,7 @@
 
 📈**LeetCode**
 
-120+ problems solved (Java, C,Python)
+130+ problems solved (Java, C,Python)
 
 📫**Reach out through**
 
